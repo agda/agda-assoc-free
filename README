@@ -1,0 +1,6 @@
+An implementation of lists, for which associativity and units are up
+to beta-eta equality, not just propositional equality, as discussed
+here <http://thread.gmane.org/gmane.comp.lang.agda/3259>.
+
+Based on this, there is an normalization by evaluation for the
+simply-typed lambda-calculus.
